@@ -9,7 +9,7 @@ I possess strong coding skills and can easily translate business requirements in
 
 💻 Programming Languages: JavaScript | TypeScript | Golang | Java | Python
 
-🖥 Frontend: React | React Native | Tailwind CSS | StyledComponents | Redux | HTML5 | CSS3
+🖥 Frontend: React | React Native | Tailwind CSS | StyledComponents | Redux | HTML5 | CSS3 | Next.js | Expo Cli
 
 🗄 Backend: Node.js | Express | Go (Gin) | Firebase | Supabase
 
