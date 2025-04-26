@@ -1,6 +1,6 @@
 Hi there 👋 I'm Donald Bassey, a Software Enngineer,
 
-🛠 My Tech Stack:
+- My Tech Stack:
 
 💻 Programming Languages: JavaScript | TypeScript | Golang | Java | Python
 
@@ -18,13 +18,11 @@ Hi there 👋 I'm Donald Bassey, a Software Enngineer,
 
 ☁️ Cloud/Hosting: AWS | Heroku | Netlify | Vercel
 
-👨‍💻 About Me:
+- About Me:
 
 🚀 Currently building scalable web and mobile products
 
 🧠 Learning advanced backend architectures and Artificial Intelligence with Python
-
-🤝 Open to collaborations on tech startups, SaaS products, and mobile apps
 
 🎵 Fun fact: I enjoy technology, innovation, and music production
 
