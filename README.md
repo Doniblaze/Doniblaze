@@ -33,6 +33,7 @@ I possess strong coding skills and can easily translate business requirements in
 🎵 Fun fact: I enjoy technology, innovation, and music production
 
 🔗 Connect With Me
+
 Twitter - https://x.com/donald_bas72891
 
 LinkedIn - https://www.linkedin.com/in/donald-bassey-746b18223/
