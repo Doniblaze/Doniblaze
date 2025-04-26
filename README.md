@@ -1,11 +1,6 @@
-Hi there 👋 I'm Donald Bassey,
+Hi there 👋 I'm Donald Bassey, a Software Enngineer,
 
-I am a Full-Stack Developer skilled in building scalable web and mobile applications—from concept, design, development, and deployment. I write clean, testable, and efficient code following best practices. I am a fast learner, a strong team player, and highly adaptable to new technologies.
-I possess strong coding skills and can easily translate business requirements into functional, reliable, and user-centric applications.
-
-🛠 Tech Stack:
-
-🌐 Operating Systems: Ubuntu | Windows
+🛠 My Tech Stack:
 
 💻 Programming Languages: JavaScript | TypeScript | Golang | Java | Python
 
@@ -23,7 +18,7 @@ I possess strong coding skills and can easily translate business requirements in
 
 ☁️ Cloud/Hosting: AWS | Heroku | Netlify | Vercel
 
-👨‍💻 About Me
+👨‍💻 About Me:
 
 🚀 Currently building scalable web and mobile products
 
