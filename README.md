@@ -2,18 +2,26 @@ Hi there 👋 I'm Donald Bassey
 Software Engineer | Fullstack Developer
 
 I am a Fullstack Developer skilled in building scalable web and mobile applications — from concept, design, development, to deployment. I write clean, testable, and efficient code following best practices. I am a fast learner, a strong team player, and highly adaptable to new technologies.
-
 I possess strong coding skills and can easily translate business requirements into functional, reliable, and user-centric applications.
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 🌐 Operating Systems: Ubuntu | Windows
+
 💻 Programming Languages: JavaScript | TypeScript | Golang | Java | Python
+
 🖥 Frontend: React | React Native | Tailwind CSS | StyledComponents | Redux | HTML5 | CSS3
+
 🗄 Backend: Node.js | Express | Go (Gin) | Firebase | Supabase
+
 🛢 Databases: MySQL | PostgreSQL | MongoDB
+
 🔧 Version Control: Git | GitHub 
+
 ⚙️ Tools: Docker | Nginx | GraphQL | Terminal
+
 🧰 IDEs: Visual Studio Code | Android Studio | Cursor | Intellij
+
 ☁️ Cloud/Hosting: AWS | Heroku | Netlify | Vercel
 
 👨‍💻 About Me
