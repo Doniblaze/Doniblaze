@@ -24,6 +24,7 @@ I possess strong coding skills and can easily translate business requirements in
 ☁️ Cloud/Hosting: AWS | Heroku | Netlify | Vercel
 
 👨‍💻 About Me
+
 🚀 Currently building scalable web and mobile products
 
 🧠 Learning advanced backend architectures and Artificial Intelligence with Python
