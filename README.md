@@ -1,7 +1,6 @@
-Hi there 👋 I'm Donald Bassey
-Software Engineer | Fullstack Developer
+Hi there 👋 I'm Donald Bassey,
 
-I am a Fullstack Developer skilled in building scalable web and mobile applications — from concept, design, development, to deployment. I write clean, testable, and efficient code following best practices. I am a fast learner, a strong team player, and highly adaptable to new technologies.
+I am a Full-Stack Developer skilled in building scalable web and mobile applications—from concept, design, development, and deployment. I write clean, testable, and efficient code following best practices. I am a fast learner, a strong team player, and highly adaptable to new technologies.
 I possess strong coding skills and can easily translate business requirements into functional, reliable, and user-centric applications.
 
 🛠 Tech Stack:
