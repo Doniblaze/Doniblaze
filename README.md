@@ -1,4 +1,4 @@
-Hi there 👋 I'm Donald Bassey, a Software Enngineer,
+Hi there 👋 I'm Donald Bassey, a System Architect,
 
 - My Tech Stack:
 
