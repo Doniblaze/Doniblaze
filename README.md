@@ -1,35 +1,77 @@
-Hi there 👋 I'm Donald Bassey, a System Architect,
+# 👋 Hi, I'm Donald Bassey
 
-- My Tech Stack:
+**Backend-Focused System Architect | Full-Stack Engineer**
 
-💻 Programming Languages: JavaScript | TypeScript | Golang | Java | Python
+I design and build scalable systems from backend architecture to production-ready applications.  
+My focus is not just writing code, but structuring systems that are reliable, maintainable, and built to scale.
 
-🖥 Frontend: React | React Native | Tailwind CSS | StyledComponents | Redux | HTML5 | CSS3 | Next.js | Expo Cli
+I specialize in backend engineering with Go and distributed system design, while still being capable of delivering full-stack products when needed.
 
-🗄 Backend: Node.js | Express | Go (Gin) | Firebase | Supabase
+---
 
-🛢 Databases: MySQL | PostgreSQL | MongoDB
+## ⚡ What I Do
 
-🔧 Version Control: Git | GitHub 
+- Architect backend systems with clean, scalable design
+- Build APIs and services using Go and Java
+- Design data models and optimize database performance
+- Translate product requirements into working systems
+- Ship production-ready applications, not just prototypes
 
-⚙️ Tools: Docker | Nginx | GraphQL | Terminal
+---
 
-🧰 IDEs: Visual Studio Code | Android Studio | Cursor | Intellij
+## 🛠 Tech Stack
 
-☁️ Cloud/Hosting: AWS | Heroku | Netlify | Vercel
+**Languages**
+- Go (Primary)
+- Java
 
-- About Me:
+**Backend**
+- Go (Gin / Chi)
+- Java (Spring Boot)
 
-🚀 Currently building scalable web and mobile products
+**Frontend**
+- React
+- Redux
+- Styled Components
 
-🧠 Learning advanced backend architectures and Artificial Intelligence with Python
+**Database**
+- PostgreSQL
+- MySQL
+- MongoDB
 
-🎵 Fun fact: I enjoy technology, innovation, and music production
+**DevOps & Tools**
+- Docker
+- AWS
+- Git (GitHub / GitLab)
 
-🔗 Connect With Me
+**Design**
+- Figma
+- Adobe XD
 
-Twitter - https://x.com/donald_bas72891
+---
 
-LinkedIn - https://www.linkedin.com/in/donald-bassey-746b18223/
+## 🚀 Selected Work
 
-Instagram - https://www.instagram.com/bnald_tech/  
+- **Myaza**  
+ a platform that provides fast, affordable, and convenient financial management solutions.
+
+---
+
+## 📈 Current Focus
+
+- Building scalable backend systems with Go
+- System design & architecture patterns
+- Real-world product development (not tutorials)
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: *https://www.linkedin.com/in/d-god/*
+- Email: *donaldbassey0@gmail.com*
+
+---
+
+## ⚠️ Note
+
+I care about building systems that work in production, not just writing code that compiles.
