@@ -59,7 +59,7 @@ I specialize in backend engineering with Go and distributed system design, while
 
 ## 📈 Current Focus
 
-- Building scalable backend systems with Go
+- Building scalable backend systems
 - System design & architecture patterns
 - Real-world product development (not tutorials)
 
